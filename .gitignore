@@ -1,0 +1,16 @@
+# Datasets & Checkpoints
+data/
+datasets/
+outputs/
+checkpoints/
+*.safetensors
+*.parquet
+*.mp4
+*.pth
+
+# Environments & Cache
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
